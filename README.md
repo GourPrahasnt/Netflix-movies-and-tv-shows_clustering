@@ -73,7 +73,7 @@ data analysis (EDA) and found various insights including:
 
 
 ##### ---------------------------Conclusion on Modeling-----------------------------
-*     In this project, we worked on a text clustering problem wherein we had to   classify/group the Netflix shows and movies into certain clusters such that the shows and Clusters within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
+*  In this project, we worked on a text clustering problem wherein we had to   classify/group the Netflix shows and movies into certain clusters such that the shows and Clusters within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 
 *  It was found that Netflix hosts more movies than TV shows on its platform, and the total number of shows added on Netflix is growing exponentially. Also, majority of the shows were produced in the United States, and the majority of the shows on Netflix were created for adults and young adults age group.  
 
